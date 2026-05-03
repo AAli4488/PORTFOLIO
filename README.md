@@ -2,7 +2,7 @@
 
 A personal portfolio website built from scratch with HTML and CSS. Showcases my work in web development and AI/ML.
 
-🔗 **Live site:** [ayesha-portfolio.netlify.app](https://ayesha-portfolio.netlify.app)
+🔗 **Live site:** [ayesha-portfolio.netlify.app]ayesha-siddiqa-portfolio.netlify.app
 
 ---
 
